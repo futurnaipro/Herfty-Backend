@@ -64,7 +64,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/novuterapro/Herfty-Backend.git
+git clone https://github.com/futurnaipro/Herfty-Backend.git
 ```
 
 ### 2. Configure the Database and Environment
@@ -130,4 +130,4 @@ paypal.mode=sandbox
 
 Novutera
 
-- GitHub: [@novuterapro](https://github.com/novuterapro)
+- GitHub: [@futurnaipro](https://github.com/futurnaipro)
